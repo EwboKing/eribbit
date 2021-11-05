@@ -1,17 +1,14 @@
 <template>
   <div>
-    App
+    Layout
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
-  setup () {
-
-  }
+  name: 'Layout'
 }
 </script>
 
-<style lang="less" scoped>
+<style>
 </style>
